@@ -1,5 +1,5 @@
 name: functor-utils
-version: 1.17.1
+version: 1.17.2
 synopsis: Collection of functor utilities, providing handy operators, like generalization
   of (.).
 category: Data
